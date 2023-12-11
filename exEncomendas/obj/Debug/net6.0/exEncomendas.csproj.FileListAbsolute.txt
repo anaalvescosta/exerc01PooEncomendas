@@ -1,0 +1,15 @@
+C:\projC#\exEncomendas\exEncomendas\bin\Debug\net6.0\exEncomendas.exe
+C:\projC#\exEncomendas\exEncomendas\bin\Debug\net6.0\exEncomendas.deps.json
+C:\projC#\exEncomendas\exEncomendas\bin\Debug\net6.0\exEncomendas.runtimeconfig.json
+C:\projC#\exEncomendas\exEncomendas\bin\Debug\net6.0\exEncomendas.dll
+C:\projC#\exEncomendas\exEncomendas\bin\Debug\net6.0\exEncomendas.pdb
+C:\projC#\exEncomendas\exEncomendas\obj\Debug\net6.0\exEncomendas.csproj.AssemblyReference.cache
+C:\projC#\exEncomendas\exEncomendas\obj\Debug\net6.0\exEncomendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\projC#\exEncomendas\exEncomendas\obj\Debug\net6.0\exEncomendas.AssemblyInfoInputs.cache
+C:\projC#\exEncomendas\exEncomendas\obj\Debug\net6.0\exEncomendas.AssemblyInfo.cs
+C:\projC#\exEncomendas\exEncomendas\obj\Debug\net6.0\exEncomendas.csproj.CoreCompileInputs.cache
+C:\projC#\exEncomendas\exEncomendas\obj\Debug\net6.0\exEncomendas.dll
+C:\projC#\exEncomendas\exEncomendas\obj\Debug\net6.0\refint\exEncomendas.dll
+C:\projC#\exEncomendas\exEncomendas\obj\Debug\net6.0\exEncomendas.pdb
+C:\projC#\exEncomendas\exEncomendas\obj\Debug\net6.0\exEncomendas.genruntimeconfig.cache
+C:\projC#\exEncomendas\exEncomendas\obj\Debug\net6.0\ref\exEncomendas.dll
